@@ -1,0 +1,9 @@
+
+#include <stdio.h>
+
+int main() {
+    // Write C code here
+    printf("%d",printf("avantika"));
+
+    return 0;
+}
