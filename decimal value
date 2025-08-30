@@ -1,0 +1,9 @@
+
+#include <stdio.h>
+
+int main() {
+    
+    printf("%f",printf("2.00009"));
+
+    return 0;
+}
